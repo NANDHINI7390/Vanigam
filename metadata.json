@@ -1,0 +1,7 @@
+{
+  "name": "வணிகம் (Vanigam) - Grocery Shop Manager",
+  "description": "An offline-first, Tamil-focused shop management system with voice-enabled billing and stock tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
